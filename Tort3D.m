@@ -22,6 +22,7 @@ if size(check,1)==0
 		mex -largeArrayDims dijkstra.cpp
 	catch
 		fprintf('Please Install a Compatible C++ Compiler (Like Visual Studio Compilers for Windows)')
+	end
 end
 
 % --- FRAMEWORK ---
