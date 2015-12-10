@@ -4,8 +4,8 @@ Below should be concise enough legend of the calculation assumptions. The tortuo
 
 <p align="center"><img src="/Readme.png"></p>
 
-[TD]=Tort3D(Alpha) finds the tortuosity distribution of a properly weighted 3D dataset Alpha. Every voxel in the dataset Alpha must have a value representing the tortuosity of the phase that the voxel represents. TD is a list of calculated tortuosity values. 
+`[TD]=Tort3D(Alpha)` finds the tortuosity distribution of a properly weighted 3D dataset Alpha. Every voxel in the dataset Alpha must have a value representing the tortuosity of the phase that the voxel represents. TD is a list of calculated tortuosity values. 
 
-[TD Tormap]=Tort3D(Alpha) will also generate a non-unique visualization of the calculated paths. 
+`[TD Tormap]=Tort3D(Alpha)` will also generate a non-unique visualization of the calculated paths. 
 
 # Pending License Approvals
